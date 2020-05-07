@@ -56,6 +56,6 @@ With the databse set up, Skeddit should be ready to run! Type `rail s` to launch
 
 Clone the Skeddit repository to your computer.
 
-Open documentation/git_gud_documentation/index.html to browse the code that we wrote.
+Open [this](documentation/git_gud_documentation/index.html) to browse the code that we wrote.
 
-Open documentation/full_app_documentation/index.html to browse the code for this entire app.
+Open [this](documentation/full_app_documentation/index.html) to browse the code for this entire app.
